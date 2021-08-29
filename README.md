@@ -13,3 +13,4 @@ TASK : Creating a Online Simple Calculator with Javascript Fundamental include A
 
 # Preview 
 
+![gambar](https://user-images.githubusercontent.com/56558752/131239720-ad7bee78-753d-4a5d-85af-55815ce5c1f6.png)
